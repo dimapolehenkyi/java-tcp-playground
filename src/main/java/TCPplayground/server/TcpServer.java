@@ -1,6 +1,6 @@
 package TCPplayground.server;
 
-import TCPplayground.handlers.CommandHandler;
+import TCPplayground.command.CommandHandler;
 
 import java.io.*;
 import java.net.ServerSocket;
